@@ -1,0 +1,5 @@
+package tech.abdroid.springrest.services;
+
+public interface CourseService {
+
+}

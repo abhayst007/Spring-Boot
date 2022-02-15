@@ -1,0 +1,5 @@
+package tech.abdroid.springrest.entities;
+
+public class Course {
+
+}
